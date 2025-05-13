@@ -21,12 +21,12 @@ const AboutData = () => {
               <ChartArea className="text-indigo-500 w-10 h-10 md:w-12 md:h-12" />
             </div>
             <h2 className="text-2xl md:text-3xl text-slate-700 font-medium leading-tight md:leading-14">
-              Chart With Your Data.
+              Pantau Data Anda dengan Mudah.
             </h2>
             <p className="text-slate-400 text-base md:text-md mt-4 max-w-md">
-              Get instant answers, support, or guidance anytime—your chatbot is
-              ready to help. Let me know if you want a more playful or
-              professional tone!
+              Dapatkan jawaban, dukungan, atau panduan secara instan kapan
+              saja—chatbot Anda siap membantu. Beri tahu saya jika Anda
+              menginginkan gaya yang lebih santai atau profesional!
             </p>
           </div>
         </div>
@@ -39,12 +39,13 @@ const AboutData = () => {
               <Users2 className="text-indigo-500 w-10 h-10 md:w-12 md:h-12" />
             </div>
             <h2 className="text-2xl md:text-3xl text-slate-700 font-medium leading-tight md:leading-14">
-              Customer services guide you.
+              Costumer Service 24 Jam.
             </h2>
             <p className="text-slate-400 text-base md:text-md mt-4 max-w-md">
-              Whether you need help getting started or solving a problem, our
-              dedicated customer service team is here to provide clear guidance
-              and personalized support—every step of the way.
+              Apakah Anda membutuhkan bantuan untuk memulai atau menyelesaikan
+              masalah, tim layanan pelanggan kami yang berdedikasi siap
+              memberikan panduan yang jelas dan dukungan yang dipersonalisasi—di
+              setiap langkah perjalanan Anda.
             </p>
           </div>
 
